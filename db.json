@@ -1,0 +1,25 @@
+{
+    "groups": [
+        {
+            "id": 5928101,
+            "group": {
+                "id": "group1",
+                "name": "Group 1"
+            }
+        },
+        {
+            "id": 5928102,
+            "group": {
+                "id": "group2",
+                "name": "Group 2"
+            }
+        },
+        {
+            "id": 5928103,
+            "group": {
+                "id": "group3",
+                "name": "Group 3"
+            }
+        }
+    ]
+}
